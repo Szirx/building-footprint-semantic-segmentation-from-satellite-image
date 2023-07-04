@@ -71,7 +71,7 @@ def formal_classification(final_img):
         print('Excellent')
 
 def main():
-    original_img = '../les2.jpg'
+    original_img = 'test_img.jpg'
     
     preprocessed_img = preprocessing(original_img)
 
